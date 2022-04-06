@@ -1,6 +1,5 @@
 - Hi, I’m @TheCircularK.
-- I program sometimes.
-- You probably shouldn't trust my code.
+- I program in Javascript, Node, C++, and Python.
 
 <!---
 TheCircularK/TheCircularK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
